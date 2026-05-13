@@ -24,4 +24,4 @@ Measures generation time
 
 ## Output Image
 
-![Generated Output](generated_output.png)
+![Generated Output](generated_image.png)
